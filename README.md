@@ -1,6 +1,6 @@
 # Pedro Augusto
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Pedro Augusto, sou natural de Alagoas. Tenho paixão por tecnologia e estou em constante aprendizado na área de desenvolvimento. Atualmente, estudo Engenharia de Software, com foco em aprimorar minhas habilidades em programação e criação de projetos. Compartilho meus conhecimentos e aprendizados aqui no GitHub, onde posto projetos pessoais e estudos relacionados ao desenvolvimento de software.
 
@@ -62,6 +62,14 @@ Me chamo Pedro Augusto, sou natural de Alagoas. Tenho paixão por tecnologia e e
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <!--
 <img 
@@ -144,13 +152,13 @@ Me chamo Pedro Augusto, sou natural de Alagoas. Tenho paixão por tecnologia e e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    widgh="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
 <br/>
