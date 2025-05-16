@@ -53,6 +53,7 @@ Me chamo Pedro Augusto, sou natural de Alagoas. Tenho paixão por tecnologia e e
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <br>
+<br>
 <p align="left">
     <a href="https://www.youtube.com/@eskaryos?sub_confirmation=1">
         <img 
@@ -83,6 +84,5 @@ Me chamo Pedro Augusto, sou natural de Alagoas. Tenho paixão por tecnologia e e
         />
     </a>
 </p>
-
 <br/>
 </p>
