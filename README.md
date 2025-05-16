@@ -9,14 +9,14 @@ Me chamo Pedro Augusto, sou natural de Alagoas. Tenho paixão por tecnologia e e
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/eskaryos?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrm4gPdA0XIs2rul0eYTg-w?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@_pedroftw">
+    <a href="https://www.youtube.com/@eskaryos">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/eskaryos?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrm4gPdA0XIs2rul0eYTg-w?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/pedr0augusto?tab=repositories&sort=stargazers">
@@ -35,7 +35,6 @@ Me chamo Pedro Augusto, sou natural de Alagoas. Tenho paixão por tecnologia e e
     </a>
 </p>
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
